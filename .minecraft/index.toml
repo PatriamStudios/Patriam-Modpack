@@ -13,8 +13,12 @@ file = "config/epicfight.toml"
 hash = "799ab80a7dbb2f755e80406fbd7a53818d232bf0c43bfebbd3866171b2866590"
 
 [[files]]
-file = "modpack.icon.png"
+file = "modpack_icon.png"
 hash = "50f74a7debb4a852e1384434500515f2478b8dcf0d71b75eba148ca34d89715c"
+
+[[files]]
+file = "mods/Essential-forge_1-16-5.jar"
+hash = "936a9065463de1b1eef2b65078be78f95336bd742268a01ea8c7c0b605ca356e"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -126,11 +130,6 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "8f7855046d9a88e7b97be1eb8c35ac5c79f4dc86b2d2c813a55248255d34e73c"
-metafile = true
-
-[[files]]
-file = "mods/camels.pw.toml"
-hash = "173a232b5cc5c657c40601e95189b77f5621abed16b7ac3ddd43c270b26658ad"
 metafile = true
 
 [[files]]
@@ -329,11 +328,6 @@ hash = "319e44bbeffcf5b2daea4f9cf6c3dad31930fa99f548188f6e37a1f598524e2a"
 metafile = true
 
 [[files]]
-file = "mods/hostile-water-monsters.pw.toml"
-hash = "5e1123568cd496091475142243f1e42734f4dd579d905f84a6849c25dc74e283"
-metafile = true
-
-[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "3c346de90e701b45ead7c62d1eb830ef042d57ed85ffc9842d9e53e71ac727c6"
 metafile = true
@@ -389,11 +383,6 @@ hash = "d0c3e006bdbd4b9e42fe693ba72e94b8b39cb4cfb9952fcfc157dd278f78bd5a"
 metafile = true
 
 [[files]]
-file = "mods/locks.pw.toml"
-hash = "3b2dd40fbf6d7e7600e0fe11f61eebb553682f94da0328493569a64d794f27ce"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "871b0b81807217d175d0e0048772a84a610322ac66ec42ebbc8e7d625f555394"
 metafile = true
@@ -421,11 +410,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
-metafile = true
-
-[[files]]
-file = "mods/market-crates.pw.toml"
-hash = "824111923a84a525adfda4e929f7db9c87452cb555ca06109436bb0b123bf776"
 metafile = true
 
 [[files]]
@@ -519,11 +503,6 @@ hash = "df3e98ece60091f8a795c17c46b9fdd71c2bfc4b7b02425d575a13bc116bd9d1"
 metafile = true
 
 [[files]]
-file = "mods/small-ships.pw.toml"
-hash = "244ed0803e58e85087244822d3f718fe63d673f8b11ec23b81eff922b4f25ccc"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot-forge.pw.toml"
 hash = "8fc85728b1093f7c7ee32cfcc91d185c6d856d374277be6420be562e6b4b99a3"
 metafile = true
@@ -544,18 +523,8 @@ hash = "25b1c5c791de9589455672083fc6168fb5f50e7d26d7948684c631a5b94b12fe"
 metafile = true
 
 [[files]]
-file = "mods/spawner-fix.pw.toml"
-hash = "31049023063d402e41f95cb61ce1434a75831db75ea3c6e3ddfd392c7c446dad"
-metafile = true
-
-[[files]]
 file = "mods/structurize.pw.toml"
 hash = "50b2eadcf47fffcda3d42d51d8a10b83935c79a66691c7eadc0a07b4aee4a579"
-metafile = true
-
-[[files]]
-file = "mods/subterranean-wilderness.pw.toml"
-hash = "a0e32cb520176ab2ac7c581e054e54bb3031e1293297e4ddba534b7415aeafa3"
 metafile = true
 
 [[files]]
