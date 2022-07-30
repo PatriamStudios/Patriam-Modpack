@@ -17,7 +17,7 @@ file = "modpack_icon.png"
 hash = "50f74a7debb4a852e1384434500515f2478b8dcf0d71b75eba148ca34d89715c"
 
 [[files]]
-file = "mods/Essential-forge_1-16-5.jar"
+file = "mods/Essential-forge_1-16-5.jar.disabled"
 hash = "936a9065463de1b1eef2b65078be78f95336bd742268a01ea8c7c0b605ca356e"
 
 [[files]]
