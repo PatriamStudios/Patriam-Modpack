@@ -1,0 +1,13 @@
+name = "Construct's Armory"
+filename = "constructsarmory-forge-2.0.0-alpha.2+1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5c416af6d2b0611baf2c356c48fc05e5ab91432"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3861380
+project-id = 287683

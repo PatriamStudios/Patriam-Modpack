@@ -1,0 +1,13 @@
+name = "iChunUtil"
+filename = "iChunUtil-1.16.5-10.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62938560b14d44fe77a5e8aa290a27b41b1b1d98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3681566
+project-id = 229060

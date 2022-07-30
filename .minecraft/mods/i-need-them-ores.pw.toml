@@ -1,0 +1,13 @@
+name = "I Need Them Ores"
+filename = "ineedthemores-1.16.4-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b39156fb136c007c2b1e166f84ca7815a33bdef4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3122128
+project-id = 375074

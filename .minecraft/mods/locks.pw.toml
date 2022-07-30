@@ -1,0 +1,13 @@
+name = "Locks"
+filename = "locks-1.16.5-3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "073b796ab4cf8d0d3fdfc6e12f9f19c74a4e3422"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3324065
+project-id = 253456

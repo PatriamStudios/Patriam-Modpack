@@ -1,0 +1,13 @@
+name = "Catalogue"
+filename = "catalogue-1.5.0-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "807f8d67280f2f3899ff85792936d700da6a5049"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3529457
+project-id = 459701

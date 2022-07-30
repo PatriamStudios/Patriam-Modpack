@@ -1,0 +1,13 @@
+name = "XK's Decoration"
+filename = "xkdeco_0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f326590d95e85d77ea5b7c69f6c1eec5118ecdb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3406131
+project-id = 497637

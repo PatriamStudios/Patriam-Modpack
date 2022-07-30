@@ -1,0 +1,13 @@
+name = "Epic Fight NBT Integration"
+filename = "fightnbtintegration-1.16.5-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ac4d17e91a9c793892f71e4a3d180299e276554"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3621290
+project-id = 513222

@@ -1,0 +1,13 @@
+name = "Epic Knights: Shields, Armor and Weapons"
+filename = "[1.16.5]-Epic-Knights-Armor-and-Weapons-5.11v.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df2bedcafa079999b4d85af15ce401bc65fea794"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3759987
+project-id = 509041

@@ -1,0 +1,13 @@
+name = "Out Of Sight"
+filename = "out_of_sight-1.16.4-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "304f0b2d038e8c2eab9927a3e1f345bb96dc35bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3143752
+project-id = 428199

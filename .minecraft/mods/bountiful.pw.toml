@@ -1,0 +1,13 @@
+name = "Bountiful (Forge)"
+filename = "Bountiful-1.16.4-3.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec7709bb36416e9fcb1a886d899b159e27d4d14a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3239647
+project-id = 309516

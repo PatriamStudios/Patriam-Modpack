@@ -1,0 +1,13 @@
+name = "Traverse Reforged"
+filename = "traverse-1.16.4-0.4.3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a981014fa5898edff71b4aaec7ab14130073a53e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3157857
+project-id = 267769
