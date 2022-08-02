@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Traverse"
+filename = "DynamicTreesTraverse-1.16.5-2.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "847012df8c16ab8743b301fc7c05e5aad587caaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3380021
+project-id = 407056

@@ -1,0 +1,13 @@
+name = "Architect's Palette"
+filename = "Architects-Palette-1.16.4-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67a665eda8b4e892b28fbd0890ccb565b5942ddf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3619985
+project-id = 433862

@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Oh The Biomes You'll Go"
+filename = "DynamicTreesBYG-1.16.5-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c9b061601b4bd5ce51e336d15fbf8bbe9e5c323"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3808090
+project-id = 562143

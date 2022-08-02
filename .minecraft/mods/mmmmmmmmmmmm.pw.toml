@@ -1,0 +1,13 @@
+name = "MmmMmmMmmMmm (Target Dummy)"
+filename = "MmmMmmMmmMmm-1.16.5-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4492a737f3e620d0c216f5821540f1b68d6a0c1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3473005
+project-id = 225738

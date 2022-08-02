@@ -1,0 +1,13 @@
+name = "Biome Growth Controls"
+filename = "growthcontrols-1.16.5-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe0255b94032fcb2928d2cc316c3e9db437703b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3203020
+project-id = 232166

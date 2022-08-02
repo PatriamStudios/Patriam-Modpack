@@ -1,0 +1,13 @@
+name = "Ceramics"
+filename = "Ceramics-1.16.5-1.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1f5c93f3ad3edc9d699cfe2534f632a7be5a1f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3347049
+project-id = 250617
