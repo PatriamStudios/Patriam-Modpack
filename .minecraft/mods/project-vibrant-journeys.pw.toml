@@ -1,13 +1,13 @@
 name = "Project: Vibrant Journeys"
-filename = "projectvibrantjourneys-1.16.5-3.2.11.jar"
+filename = "projectvibrantjourneys-1.18.2-4.0.0-ALPHA6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "060df7f4d749686e4e2b982a5210b18f9ab33438"
+hash = "aa94c7ae40f44506cb6d28c6a4d520e35b4cf955"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3549712
+file-id = 3787364
 project-id = 300297

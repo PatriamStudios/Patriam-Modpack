@@ -1,13 +1,13 @@
 name = "Harder Farther"
-filename = "HarderFarther-1.16.5-1.36.0.6.jar"
+filename = "HarderFarther-1.18.2-21.40.0.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac548c74f1d6eae857653098918be5e37a17c37a"
+hash = "e6dc8b24438c21eb1a763f44ed7e5a0a2f40e83c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3180521
+file-id = 3904464
 project-id = 409369

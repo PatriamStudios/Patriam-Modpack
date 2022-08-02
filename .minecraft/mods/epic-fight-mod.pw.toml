@@ -1,13 +1,13 @@
 name = "Epic Fight"
-filename = "EpicFightMod-16.5.13.jar"
+filename = "EpicFight-18.2.6-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d0452026a43dcfeff59cdbdabd8d7149c24937f4"
+hash = "b09081d7c9bef6d5d7c7fc4e5f366a153693b555"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3534866
+file-id = 3888643
 project-id = 405076

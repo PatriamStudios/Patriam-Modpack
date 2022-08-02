@@ -1,13 +1,13 @@
 name = "Blueprint"
-filename = "abnormals_core-1.16.5-3.3.1.jar"
+filename = "blueprint-1.18.2-5.4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "24085889c6915d9288fcb031dd1aea03c4882e3e"
+hash = "ac31ad0da40e9945760f898a0b684109d4060ac8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3607198
+file-id = 3899215
 project-id = 382216

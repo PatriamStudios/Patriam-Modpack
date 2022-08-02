@@ -1,13 +1,13 @@
 name = "Legendary Tooltips"
-filename = "LegendaryTooltips-1.16.5-1.1.7.jar"
+filename = "LegendaryTooltips-1.18.2-1.2.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "47a28bd969bdba626f92b81d3c36df5bc79a783a"
+hash = "7442b19112fc62a0e3696413add7433fb699b618"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3793172
+file-id = 3854978
 project-id = 532127

@@ -1,13 +1,13 @@
 name = "Guidebook"
-filename = "Guidebook-1.16.3-3.2.1.jar"
+filename = "Guidebook-1.18.2-3.4.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d2cc2a430b1bfdc68ad13f52357b5ab96cdd45db"
+hash = "ea81d6153a02e4ea45582b7367ec669cd8395d4a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3090647
+file-id = 3788159
 project-id = 253874

@@ -1,13 +1,13 @@
-name = "Modpack Template"
-author = "Merith.TK"
+name = "Patriam"
+author = "Atmos"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "24e0c2aad35ba93d92d18f9e86cc5383a42167de24e5120e09c3dea9d714b60f"
+hash = "98c3394c552aa7d72461fcb3551313a1347c56bb64cb83dc0244fad03983da87"
 
 [versions]
-forge = "36.2.29"
-minecraft = "1.16.5"
+forge = "40.0.0"
+minecraft = "1.18.2"

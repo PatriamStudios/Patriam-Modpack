@@ -1,13 +1,13 @@
 name = "Flash's NPCs"
-filename = "flashnpcs-1.16.5-1.1.4.jar"
+filename = "flashnpcs-1.18.1-1.1.4v2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "96ccb2f485ba7eb0d512283c446139f552d11a2d"
+hash = "c21bf4b2a72ca1c26a8eda87c35e93294f53f9d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3626737
+file-id = 3760573
 project-id = 517167
