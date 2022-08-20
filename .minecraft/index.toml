@@ -5,12 +5,20 @@ file = "bin/modpack.jar"
 hash = "beff227ac8550b86a2c9ec1dc88b44cc746080322ed180445821c616fd2ead91"
 
 [[files]]
+file = "config/epicfight-1.toml.bak"
+hash = "9a7cbc8e951794b32c172314392b9faca2d8c7f5def3b22c4d12220b76164338"
+
+[[files]]
 file = "config/epicfight-client.toml"
 hash = "528a00da12042d68f4f7db40fc7453a478a63ea9f8e90c4fef5a9c9d6602caea"
 
 [[files]]
 file = "config/epicfight.toml"
 hash = "799ab80a7dbb2f755e80406fbd7a53818d232bf0c43bfebbd3866171b2866590"
+
+[[files]]
+file = "config/epicfight.tomlOLD"
+hash = "01fd21c9d9c4cf59c0ddf9457ee98fda788dd1139cf231db41321f820fa8b3ab"
 
 [[files]]
 file = "modpack_icon.png"
@@ -130,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "8f7855046d9a88e7b97be1eb8c35ac5c79f4dc86b2d2c813a55248255d34e73c"
+metafile = true
+
+[[files]]
+file = "mods/camels.pw.toml"
+hash = "173a232b5cc5c657c40601e95189b77f5621abed16b7ac3ddd43c270b26658ad"
 metafile = true
 
 [[files]]
@@ -328,6 +341,11 @@ hash = "319e44bbeffcf5b2daea4f9cf6c3dad31930fa99f548188f6e37a1f598524e2a"
 metafile = true
 
 [[files]]
+file = "mods/hostile-water-monsters.pw.toml"
+hash = "5e1123568cd496091475142243f1e42734f4dd579d905f84a6849c25dc74e283"
+metafile = true
+
+[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "3c346de90e701b45ead7c62d1eb830ef042d57ed85ffc9842d9e53e71ac727c6"
 metafile = true
@@ -348,6 +366,11 @@ hash = "057fa9679bf8a23d46b5c9afa3b7a9765f2af01db67ca69fd3b0f69df2fa5957"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "5b2bc12dc2d5edf0075d5eec6109170308ed4cec298d87b17f621a7bcebca337"
+metafile = true
+
+[[files]]
 file = "mods/jei-integration.pw.toml"
 hash = "d0e5598342f9d44850c2b9241541c5cf5f95e820f7ecf87df3e83316c1972d70"
 metafile = true
@@ -355,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6d3a5c860843e3403e80d28e31a9a10c3668c978d3f88597d77424088e6beff3"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "04b928d8be54ab152fc2ddbe278bf7ce08353de099145f7ffb1a1b4ff33d11a7"
 metafile = true
 
 [[files]]
@@ -380,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources-forge.pw.toml"
 hash = "d0c3e006bdbd4b9e42fe693ba72e94b8b39cb4cfb9952fcfc157dd278f78bd5a"
+metafile = true
+
+[[files]]
+file = "mods/locks.pw.toml"
+hash = "3b2dd40fbf6d7e7600e0fe11f61eebb553682f94da0328493569a64d794f27ce"
 metafile = true
 
 [[files]]
@@ -413,13 +446,18 @@ hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
 metafile = true
 
 [[files]]
+file = "mods/market-crates.pw.toml"
+hash = "824111923a84a525adfda4e929f7db9c87452cb555ca06109436bb0b123bf776"
+metafile = true
+
+[[files]]
 file = "mods/medieval-siege-machines.pw.toml"
 hash = "cff99bf8abbcd83bb494013d85d3a54c293ee3e83793c7b965c1d34d5db2e88c"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "36a585e4c34075e346bdbe0ae0223e1bafc676b7f9e3b2c6fbcb13b31bbabda3"
+hash = "fb87f119ac999eb881a8fac1518ee806583df2a02a3b28c9ae23479746881c0c"
 metafile = true
 
 [[files]]
@@ -473,6 +511,11 @@ hash = "5375abaa673b3bbab3ee192ce1056dcd4b1e2c49a01e1409f50da9b46523c277"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "d9db521c84b2ae78d62c385beff7be3f11725abf46357ffec5c7b6a85f6bdac0"
+metafile = true
+
+[[files]]
 file = "mods/pollen.pw.toml"
 hash = "b17c83a3e926712f79d28423c5576ef56e5d99c417f5e9c68a2b2fe7bdbc7bc6"
 metafile = true
@@ -503,6 +546,11 @@ hash = "df3e98ece60091f8a795c17c46b9fdd71c2bfc4b7b02425d575a13bc116bd9d1"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "244ed0803e58e85087244822d3f718fe63d673f8b11ec23b81eff922b4f25ccc"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-forge.pw.toml"
 hash = "8fc85728b1093f7c7ee32cfcc91d185c6d856d374277be6420be562e6b4b99a3"
 metafile = true
@@ -523,8 +571,18 @@ hash = "25b1c5c791de9589455672083fc6168fb5f50e7d26d7948684c631a5b94b12fe"
 metafile = true
 
 [[files]]
+file = "mods/spawner-fix.pw.toml"
+hash = "31049023063d402e41f95cb61ce1434a75831db75ea3c6e3ddfd392c7c446dad"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
-hash = "50b2eadcf47fffcda3d42d51d8a10b83935c79a66691c7eadc0a07b4aee4a579"
+hash = "55272d8b0c7469d985f48f3b6fd068da9ecdbaf2f4bae9b1207e401f33c673f2"
+metafile = true
+
+[[files]]
+file = "mods/subterranean-wilderness.pw.toml"
+hash = "a0e32cb520176ab2ac7c581e054e54bb3031e1293297e4ddba534b7415aeafa3"
 metafile = true
 
 [[files]]

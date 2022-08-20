@@ -1,0 +1,13 @@
+name = "Hostile Water Monsters"
+filename = "HostileWaterMonsters-1.36.1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d809966bb2816c628bd1091247065aadfe102712"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3446886
+project-id = 413027
