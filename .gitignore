@@ -12,6 +12,7 @@
 .technic
 *.zip
 *.mrpack
+build/
 
 ## Add your modded folders/files to ignore here
 .minecraft/packwiz-installer.jar

@@ -5,10 +5,6 @@ file = "bin/modpack.jar"
 hash = "beff227ac8550b86a2c9ec1dc88b44cc746080322ed180445821c616fd2ead91"
 
 [[files]]
-file = "config/epicfight-1.toml.bak"
-hash = "9a7cbc8e951794b32c172314392b9faca2d8c7f5def3b22c4d12220b76164338"
-
-[[files]]
 file = "config/epicfight-client.toml"
 hash = "528a00da12042d68f4f7db40fc7453a478a63ea9f8e90c4fef5a9c9d6602caea"
 
@@ -17,16 +13,20 @@ file = "config/epicfight.toml"
 hash = "799ab80a7dbb2f755e80406fbd7a53818d232bf0c43bfebbd3866171b2866590"
 
 [[files]]
-file = "config/epicfight.tomlOLD"
-hash = "01fd21c9d9c4cf59c0ddf9457ee98fda788dd1139cf231db41321f820fa8b3ab"
+file = "mods/Camels-1.16.5-1.0.0.jar"
+hash = "a4131d869ce54534218b832b2f2e36124795398efa0c8d11eeb942e76a07b459"
 
 [[files]]
-file = "modpack_icon.png"
-hash = "50f74a7debb4a852e1384434500515f2478b8dcf0d71b75eba148ca34d89715c"
+file = "mods/HostileWaterMonsters-1.36.1.18.jar"
+hash = "64a19dce1a15f40cb1098af78959c55376af504e03896c0168b35588f020a83a"
 
 [[files]]
-file = "mods/Essential-forge_1-16-5.jar.disabled"
-hash = "936a9065463de1b1eef2b65078be78f95336bd742268a01ea8c7c0b605ca356e"
+file = "mods/MarketCrates-1.16.4-35.1.4-v1.1-universal.jar"
+hash = "0a3af9381624b25cfc4a1cbc2a9ee2a95d4e549bdea69ba83f7f030c46c92246"
+
+[[files]]
+file = "mods/SpawnerFix-1.16.2-1.0.0.2.jar"
+hash = "7675a126cd8d8456b0fed49621a97cebfced7d55d82d6ed6d40b9ae4e8fb8bb7"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -138,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "8f7855046d9a88e7b97be1eb8c35ac5c79f4dc86b2d2c813a55248255d34e73c"
-metafile = true
-
-[[files]]
-file = "mods/camels.pw.toml"
-hash = "173a232b5cc5c657c40601e95189b77f5621abed16b7ac3ddd43c270b26658ad"
 metafile = true
 
 [[files]]
@@ -341,11 +336,6 @@ hash = "319e44bbeffcf5b2daea4f9cf6c3dad31930fa99f548188f6e37a1f598524e2a"
 metafile = true
 
 [[files]]
-file = "mods/hostile-water-monsters.pw.toml"
-hash = "5e1123568cd496091475142243f1e42734f4dd579d905f84a6849c25dc74e283"
-metafile = true
-
-[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "3c346de90e701b45ead7c62d1eb830ef042d57ed85ffc9842d9e53e71ac727c6"
 metafile = true
@@ -411,9 +401,8 @@ hash = "d0c3e006bdbd4b9e42fe693ba72e94b8b39cb4cfb9952fcfc157dd278f78bd5a"
 metafile = true
 
 [[files]]
-file = "mods/locks.pw.toml"
-hash = "3b2dd40fbf6d7e7600e0fe11f61eebb553682f94da0328493569a64d794f27ce"
-metafile = true
+file = "mods/locks-1.16.5-3.0.3.jar"
+hash = "108088353178863a68e91861d5625a3b85b9e640740ac92d64ed55de828dc4c8"
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
@@ -443,11 +432,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
-metafile = true
-
-[[files]]
-file = "mods/market-crates.pw.toml"
-hash = "824111923a84a525adfda4e929f7db9c87452cb555ca06109436bb0b123bf776"
 metafile = true
 
 [[files]]
@@ -546,9 +530,8 @@ hash = "df3e98ece60091f8a795c17c46b9fdd71c2bfc4b7b02425d575a13bc116bd9d1"
 metafile = true
 
 [[files]]
-file = "mods/small-ships.pw.toml"
-hash = "244ed0803e58e85087244822d3f718fe63d673f8b11ec23b81eff922b4f25ccc"
-metafile = true
+file = "mods/smallships-1.16.5-1.10.1.jar"
+hash = "8aafc3d9eba42f6b6c96aca0284823e57c52002a017580e031029bb155ff7327"
 
 [[files]]
 file = "mods/smooth-boot-forge.pw.toml"
@@ -571,19 +554,13 @@ hash = "25b1c5c791de9589455672083fc6168fb5f50e7d26d7948684c631a5b94b12fe"
 metafile = true
 
 [[files]]
-file = "mods/spawner-fix.pw.toml"
-hash = "31049023063d402e41f95cb61ce1434a75831db75ea3c6e3ddfd392c7c446dad"
-metafile = true
-
-[[files]]
 file = "mods/structurize.pw.toml"
 hash = "55272d8b0c7469d985f48f3b6fd068da9ecdbaf2f4bae9b1207e401f33c673f2"
 metafile = true
 
 [[files]]
-file = "mods/subterranean-wilderness.pw.toml"
-hash = "a0e32cb520176ab2ac7c581e054e54bb3031e1293297e4ddba534b7415aeafa3"
-metafile = true
+file = "mods/subwild-1.3.1.jar"
+hash = "ef13f11c8e52203543444410c9c002c24a56a1b1d5ee2eaa35000f4755955ce2"
 
 [[files]]
 file = "mods/swingthroughgrass.pw.toml"
@@ -663,3 +640,7 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "patriam_icon.png"
+hash = "50f74a7debb4a852e1384434500515f2478b8dcf0d71b75eba148ca34d89715c"

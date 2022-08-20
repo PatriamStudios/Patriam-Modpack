@@ -1,12 +1,12 @@
-name = "Modpack Template"
-author = "Merith.TK"
-version = "1.0.0"
+name = "Patriam Golden Age"
+author = "Atmos (alex), Merith.TK"
+version = "6.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cb8af02f34fe59bb086a9fc4365aa529b2fd049adb4b4aa3518d89d8e3b6c472"
+hash = "78f70c4e1645f9fd9294fb0bd192956709ec6cb3b6b865bb3ee3929c069914a3"
 
 [versions]
 forge = "36.2.29"
