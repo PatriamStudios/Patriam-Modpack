@@ -84,25 +84,8 @@ hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
 metafile = true
 
 [[files]]
-file = "mods/autotip/de59f7ce-51eb-4f7a-a6f8-72863b3ab697/config.at"
-hash = "a3481cbe9be1166d5a3b6564e4dce3a092494bb05676e56e944c57cbb331b445"
-
-[[files]]
-file = "mods/autotip/de59f7ce-51eb-4f7a-a6f8-72863b3ab697/stats/2022-04-27.at"
-hash = "7ac7a025601bd179192591a6bd87b9d3e64c0b760dfb1968aebabf20c8170abe"
-
-[[files]]
-file = "mods/autotip/de59f7ce-51eb-4f7a-a6f8-72863b3ab697/stats/2022-05-03.at"
-hash = "9e7c311aa08225ef9f48de12f29d3d78cdd36c8a3a7901555ac5c755526eb707"
-
-[[files]]
 file = "mods/auudio-forge.pw.toml"
 hash = "30683c8984d06e3dce50305be347415ffbde83e22308543403c4c4500968556b"
-metafile = true
-
-[[files]]
-file = "mods/back-tools.pw.toml"
-hash = "f21dd641a9c619551ed2451f2125a2c021aca4f108cc38776651ed4ed7301342"
 metafile = true
 
 [[files]]
@@ -311,11 +294,6 @@ hash = "dd4809f43afb43dfa8cd4fbfe94ee5f0837ff0297ae09edbf02d350bb4a5280d"
 metafile = true
 
 [[files]]
-file = "mods/forgeendertech.pw.toml"
-hash = "be3b18cc63f95b59ac89f07d1dbfc08da7e1d53ae9914a04f7ab8b6f47d13cdd"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "7a42e500eab80fc2692e6219c0f5762fed414dbde154426ba4d2840cb698faf5"
 metafile = true
@@ -333,11 +311,6 @@ metafile = true
 [[files]]
 file = "mods/harder-farther.pw.toml"
 hash = "319e44bbeffcf5b2daea4f9cf6c3dad31930fa99f548188f6e37a1f598524e2a"
-metafile = true
-
-[[files]]
-file = "mods/hwyla.pw.toml"
-hash = "3c346de90e701b45ead7c62d1eb830ef042d57ed85ffc9842d9e53e71ac727c6"
 metafile = true
 
 [[files]]
@@ -485,11 +458,6 @@ hash = "ab4b4df0fe91e7af8b42f85957cd2c08a678ca9c70f8ea6cf8a5cccdd64a35be"
 metafile = true
 
 [[files]]
-file = "mods/placeable-items.pw.toml"
-hash = "0bbf3e753ab9412590d078dc1fed5ae9a5bab61b2d80fdc75fc575e0538102ad"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "5375abaa673b3bbab3ee192ce1056dcd4b1e2c49a01e1409f50da9b46523c277"
 metafile = true
@@ -522,11 +490,6 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "4017001e2ab618ca7a030405e49f1cfce224c94383f6347cbf604c1df0428f41"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "df3e98ece60091f8a795c17c46b9fdd71c2bfc4b7b02425d575a13bc116bd9d1"
 metafile = true
 
 [[files]]
